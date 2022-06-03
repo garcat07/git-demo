@@ -10,3 +10,5 @@ hello git   hot-fix test
 hello git
 hello git
 hello git   remote register github.com 
+hello git    
+hello git   git-clone test 
